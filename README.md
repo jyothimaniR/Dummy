@@ -1,4 +1,7 @@
 # **Dummy-Repo**
+
+use the ` git clone ` command to clone the repo in local.
+
 ## *List of contents* 
 ----
 ----
