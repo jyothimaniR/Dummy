@@ -3,7 +3,7 @@
 use the ` git clone ` command to clone the repo in local.
 
 ## *List of contents* 
-[^Manutd] vs [^LFC]
+[^1] Manutd vs LFC [^2]
 
 ## *Description*
 Just for learning
@@ -19,5 +19,5 @@ LFC    | 4th June
  
 ![Manchester_United_FC](https://github.com/user-attachments/assets/d56fb47e-70ad-4620-b24c-19e992d2cffa)
 
-[^Manutd]: Worst Performance in recent times
-[^LFC]: Best performace in recent times
+[^1]: Worst Performance in recent times
+[^2]: Best performace in recent times
