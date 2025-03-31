@@ -16,4 +16,6 @@ Just for learning
 Manutd | 24th march
 LFC    | 4th June
 
+ ```python def greet(name): print(f"Hello, {name}!") ```
+ 
 ![Manchester_United_FC](https://github.com/user-attachments/assets/d56fb47e-70ad-4620-b24c-19e992d2cffa)
