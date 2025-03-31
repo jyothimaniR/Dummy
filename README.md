@@ -16,7 +16,7 @@ Term 2
 
 <mark>You never walk alone</mark> 🔥😉🏆
 
-~Manutd will win the league this year~ ⬇️:joker:
+~Manutd will win the league this year~ ⬇️🃏
 
 
 [Liverpool](https://explore-liverpool.com/wp-content/uploads/2025/02/LFC-.jpg)
