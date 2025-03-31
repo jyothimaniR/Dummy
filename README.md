@@ -5,6 +5,17 @@ use the ` git clone ` command to clone the repo in local.
 ## *List of contents* 
 [^1] Manutd vs LFC [^2]
 
+<details>
+  <summary>Show Git Commands</summary>
+
+  [] `git status` — check current branch state  
+  [] `git add .` — stage all changes  
+  []`git commit -m "message"` — commit changes  
+  [] `git push` — push to remote
+
+</details>
+
+
 ## *Description*
 Just for learning
 
