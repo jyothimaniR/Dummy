@@ -8,10 +8,10 @@ use the ` git clone ` command to clone the repo in local.
 <details>
   <summary>Show Git Commands</summary>
 
-  [] `git status` — check current branch state  
-  [] `git add .` — stage all changes  
-  []`git commit -m "message"` — commit changes  
-  [] `git push` — push to remote
+  - [ ] `git status` — check current branch state  
+  - [ ] `git add .` — stage all changes  
+  - [ ] `git commit -m "message"` — commit changes  
+  - [ ] `git push` — push to remote
 
 </details>
 
