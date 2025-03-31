@@ -14,7 +14,7 @@ Term 1
 Term 2
 : Definition for term 2
 
-~ Manutd will win the league this year ~
+~Manutd will win the league this year~
 
 
 [Liverpool](https://explore-liverpool.com/wp-content/uploads/2025/02/LFC-.jpg)
