@@ -20,7 +20,6 @@ Term 2
 
 +first match
 +second match
-
 -third match
 -forth match
 
