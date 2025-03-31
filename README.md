@@ -26,6 +26,13 @@ Term 2
 1. second match
 1. third match
 
+   ```rb
+   def factorial(n):
+   if n == 0 or n == 1:
+        return 1
+    return n * factorial(n - 1)
+   ```
+
   
 [Liverpool](https://explore-liverpool.com/wp-content/uploads/2025/02/LFC-.jpg)
 
