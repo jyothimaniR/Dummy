@@ -18,9 +18,9 @@ Term 2
 
 ~Manutd will win the league this year~ ⬇️🃏
 
-- foo
-- bar
-+ baz
++ first match
++ second match
++ third match
 
   
 [Liverpool](https://explore-liverpool.com/wp-content/uploads/2025/02/LFC-.jpg)
