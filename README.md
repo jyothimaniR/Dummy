@@ -29,9 +29,11 @@ Term 2
    ```rb
    def factorial(n):
    if n == 0 or n == 1:
-        return 1
+        return 1M
     return n * factorial(n - 1)
    ```
+
+   > CR7 is the best player in the world!!!
 
   
 [Liverpool](https://explore-liverpool.com/wp-content/uploads/2025/02/LFC-.jpg)
